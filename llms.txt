@@ -1,0 +1,23 @@
+# Amit Sharma (Aemy / @1nsharma)
+
+> AI Systems Builder, Full-Stack Engineer, and SEO/AEO/GEO Strategist based in Kanpur, Uttar Pradesh, India. Founder of 1nsharma-labs and creator of SLASH and DukaanMitra (MitraOS).
+
+## Identity & Links
+- Official Hub: https://1nsharma.github.io/
+- GitHub Profile: https://github.com/1nsharma
+- GitHub Organization: https://github.com/1nsharma-labs
+- Dev.to: https://dev.to/ameyinsisde
+- Open-Source Sponsorship: https://polar.sh/1nsharma-labs
+- Direct Contact: amitsharma99976@gmail.com
+
+## Flagship Open-Source Projects
+- [SLASH](https://github.com/1nsharma/SLASH): Unified URL (Urlmind), GitHub Repository, and API/DB Schema intelligence engine that maps fragmented codebases into a 4-zone architecture graph and runnable application bundle.
+- [SlashGraph](https://github.com/1nsharma-labs/slashgraph): Zero-token AST & web intelligence graph with a native Model Context Protocol (MCP) server for Claude Desktop and Cursor.
+- [DukaanMitra / MitraOS](https://github.com/1nsharma/Dukaanmitra-MitraOS): Event-driven, WhatsApp-first CRM and deterministic accounting ledger for Indian SMB merchants without recurring cloud SaaS bloat.
+- [DevDaemon](https://github.com/1nsharma-labs/devdaemon): Terminal error interceptor, zombie port killer, and shell diagnostics MCP connector.
+- [TokenArmor](https://github.com/1nsharma-labs/tokenarmor): Open-source AI gateway and LLM token FinOps firewall with caching, hard budget caps, and PII masking.
+
+## Services & Commercial Capabilities
+- Custom AI automation pipelines (self-hosted n8n, Ollama, MCP servers)
+- WhatsApp-first lead, booking, and operations automation for Indian SMBs
+- Technical SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO)
