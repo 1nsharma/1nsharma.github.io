@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Amit Sharma (Aemy / @1nsharma)",
+  "handle": "1nsharma",
+  "description": "AI Systems Builder, Full-Stack Engineer, and SEO/AEO/GEO Strategist based in Kanpur, India. Founder of 1nsharma-labs, creator of SLASH / SlashGraph and DukaanMitra OS (Munim AI).",
+  "url": "https://1nsharma.github.io/",
+  "version": "2026.11.22",
+  "protocolVersion": "MCP-2025-06 / A2A-1.0",
+  "capabilities": {
+    "streaming": true,
+    "statePersistence": true,
+    "humanInTheLoop": true
+  },
+  "skills": [
+    {
+      "id": "slashgraph-codebase-intel",
+      "name": "SLASH & SlashGraph Codebase Intelligence",
+      "description": "Maps fragmented URLs, repositories, and API/DB schemas into a 4-zone architecture graph with zero-token AST retrieval via MCP.",
+      "url": "https://github.com/1nsharma/SLASH"
+    },
+    {
+      "id": "dukaanmitra-munim-os",
+      "name": "DukaanMitra OS & Munim AI",
+      "description": "WhatsApp-first AI business operating system and deterministic accounting ledger for Indian Kirana and MSME merchants.",
+      "url": "https://dukaanmitra.in/"
+    },
+    {
+      "id": "geo-aeo-visibility",
+      "name": "GEO / AEO Search Visibility & Autonomous Growth",
+      "description": "Entity-graph optimization, llms.txt citation engineering, and self-hosted open-source automation pipelines."
+    }
+  ],
+  "endpoints": {
+    "hub": "https://1nsharma.github.io/",
+    "llmsTxt": "https://1nsharma.github.io/llms.txt",
+    "sitemap": "https://1nsharma.github.io/sitemap.xml",
+    "githubProfile": "https://github.com/1nsharma",
+    "githubOrg": "https://github.com/1nsharma-labs",
+    "openworkControl": "https://api.openworklabs.com/mcp/agent/connections/cob_01m7zsw09ce54r4czz6fyqsgnd"
+  },
+  "contact": {
+    "email": "amitsharma99976@gmail.com",
+    "location": "Kanpur, Uttar Pradesh, India"
+  }
+}
